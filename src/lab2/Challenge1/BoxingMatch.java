@@ -1,4 +1,4 @@
-package lab2;
+package lab2.Challenge1;
 
 public class BoxingMatch {
     public Fighter fighter1;

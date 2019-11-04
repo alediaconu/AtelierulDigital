@@ -1,4 +1,4 @@
-package lab2;
+package lab2.Challenge1;
 
 public class Main {
     public static void main(String[] args) { //psvm->genereaza automat
