@@ -2,16 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1a6a19d-165d-4262-aea3-0c436acf5a63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Challenge1/BoxingMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Challenge1/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Challenge1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Challenge2/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Challenge2/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Challenge2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Challenge2/Premiu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Challenge2/Studio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Factory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Factory/ChicagoPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Factory/ChicagoPizza2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Factory/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Factory/NYPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Factory/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Factory/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Vistor/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Vistor/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Vistor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Vistor/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Vistor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/box/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/box/GenericBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/box/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/exchange/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/exchange/ExchangeDesk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/exchange/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/exchange/Ron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/exchange/USD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital/lab2/Challenge2/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigital/lab2/Challenge2/Actor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital/lab2/Challenge2/Film.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigital/lab2/Challenge2/Film.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital/lab2/Challenge2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigital/lab2/Challenge2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital/lab2/Challenge2/Studio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigital/lab2/Challenge2/Studio.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +46,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -30,7 +55,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SqEueWTvWgjRBd96py3gXTj1xb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -41,6 +68,9 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="lab2.Challenge1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab5" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -55,13 +85,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab2.Challenge2.Main" />
       <module name="AtelierulDigital" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lab2.Challenge2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.Decorator.Main" />
+      <module name="AtelierulDigital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.Decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.Vistor.Main" />
+      <module name="AtelierulDigital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.Vistor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab5.exchange.Main" />
+      <module name="AtelierulDigital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab5.exchange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,25 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab1.Challenge3.Pair" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab5.box.Main" />
       <module name="AtelierulDigital" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab1.Challenge3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab1.Challenge2.Replace" />
-      <module name="AtelierulDigital" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab1.Challenge2.*" />
+          <option name="PATTERN" value="lab5.box.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,17 +173,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.lab1" />
-      <item itemvalue="Application.Pair" />
-      <item itemvalue="Application.Replace" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Replace" />
-        <item itemvalue="Application.Pair" />
       </list>
     </recent_temporary>
   </component>
