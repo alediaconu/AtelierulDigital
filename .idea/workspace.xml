@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1a6a19d-165d-4262-aea3-0c436acf5a63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab4/Phonebook/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/Phonebook/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/Phonebook/Phonebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/Phonebook/Phonebook.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Leaders/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Leaders/GenericLeaders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Leaders/Leaders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Leaders/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Map/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital/lab4/Phonebook/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigital/lab4/Phonebook/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +43,7 @@
       <recent name="lab2.Challenge1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab6" />
       <recent name="lab5" />
     </key>
   </component>
@@ -57,26 +59,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (6)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab3.Decorator.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6.Map.Main" />
       <module name="AtelierulDigital" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab3.Decorator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab3.Vistor.Main" />
-      <module name="AtelierulDigital" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab3.Vistor.*" />
+          <option name="PATTERN" value="lab6.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,6 +112,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6.Leaders.Main" />
+      <module name="AtelierulDigital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6.Leaders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lab1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="lab1.Main" />
       <module name="AtelierulDigital" />
@@ -132,19 +134,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.lab1" />
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (6)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (6)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
